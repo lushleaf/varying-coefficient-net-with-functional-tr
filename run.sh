@@ -1,6 +1,5 @@
 # generate simulated dataset
-
-python simu1_generate_data.py --save_dir dataset/simu1 --num_eval 10 --num_tune 2
+python simu1_generate_data.py --save_dir dataset/simu1 --num_eval 100 --num_tune 20
 
 # train and eval
 # -- to run all models/methods in numbers of datasets
