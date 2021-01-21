@@ -11,13 +11,20 @@ A typical comparison of estimated ADRF with a previous model is as follows.
 
 -- generate simulated data
 
-simu1_generate_data.py will generate simulated
+    simu1_generate_data.py
 
 -- train and evaluating the methods
 
-to run a singe run of models/methods with one dataset, please use main.py
-You can also use main.py to generate estimated ADRF curve (Fig 1 in the paper).
+To run a singe run of models/methods with one dataset:
+    
+    main.py
 
-to run all models/methods in numbers of datasets, please use main_batch.py
+You can also use it to generate estimated ADRF curve (Fig 1 in the paper).
 
-Please see run.sh for some sample command to produce our experiment
+To run all models/methods in numbers of datasets, please use
+
+    main_batch.py
+
+Some sample command to produce our experiment.
+    
+    run.sh
