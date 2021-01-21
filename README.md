@@ -26,3 +26,13 @@ To run all models/methods with numbers of datasets, please use
 Some sample command to produce our experiment.
     
     run.sh
+
+## Citation
+    @inproceedings{
+    nie2021varying,
+    title={Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects},
+    author={Lizhen Nie and Mao Ye and qiang liu and Dan Nicolae},
+    booktitle={International Conference on Learning Representations},
+    year={2021},
+    url={https://openreview.net/forum?id=RmB-88r9dL}
+    }
