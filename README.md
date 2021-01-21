@@ -1,7 +1,7 @@
 # Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects
-\[ICLR 2021\] Code for: [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects](https://openreview.net/forum?id=RmB-88r9dL)
+\[ICLR 2021, Oral Presentation\] Code for: [Varying Coefficient Neural Network with Functional Targeted Regularization for Estimating Continuous Treatment Effects](https://openreview.net/forum?id=RmB-88r9dL)
 
-We investigate the problem of estimating the average dose-response curve (ADRF) with neural network model. We develop a new network architecture called varying coefficient network that is powful in representing the treatment effect while preserving the continuous structure of ADRF. To improve finite sample performance, we generalize targeted regularization to obtain a doubly robust estimator of the whole ADRF curve.
+We investigate the problem of estimating the average dose-response function (ADRF) with neural network model. We develop a new network architecture called varying coefficient network that is powful in representing the treatment effect while preserving the continuous structure of ADRF. To improve finite sample performance, we generalize targeted regularization to obtain a doubly robust estimator of the whole ADRF curve.
 
 A typical comparison of estimated ADRF with a previous model is as follows.
 
