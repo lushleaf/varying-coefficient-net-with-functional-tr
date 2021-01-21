@@ -15,11 +15,9 @@ A typical comparison of estimated ADRF with a previous model is as follows.
 
 -- train and evaluating the methods
 
-To run a singe run of models/methods with one dataset:
+To run a singe run of models/methods with one dataset. You can also use it to generate estimated ADRF curve (Fig 1 in the paper):
     
     main.py
-
-You can also use it to generate estimated ADRF curve (Fig 1 in the paper).
 
 To run all models/methods in numbers of datasets, please use
 
