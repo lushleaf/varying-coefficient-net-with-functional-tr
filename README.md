@@ -19,7 +19,7 @@ To run a singe run of models/methods with one dataset. You can also use it to ge
     
     main.py
 
-To run all models/methods in numbers of datasets, please use
+To run all models/methods with numbers of datasets, please use
 
     main_batch.py
 
