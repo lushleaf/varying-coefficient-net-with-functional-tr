@@ -6,6 +6,7 @@ We investigate the problem of estimating the average dose-response curve (ADRF) 
 ## How to run
 
 -- generate simulated data
+
 simu1_generate_data.py will generate simulated
 
 -- train and evaluating the methods
