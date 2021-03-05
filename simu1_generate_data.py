@@ -28,7 +28,7 @@ if __name__ == "__main__":
         data_file = os.path.join(data_path, 't_grid.txt')
         np.savetxt(data_file, t_grid.numpy())
 
-    for _ in range(args.num_tune):
+    for _ in range(args.num_eval):
         print('generating eval set: ', _)
         data_path = os.path.join(save_path, 'eval', str(_))
         if not os.path.exists(data_path):
