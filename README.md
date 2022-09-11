@@ -9,6 +9,8 @@ A typical comparison of estimated ADRF with a previous model is as follows.
 
 ## How to run
 
+To run the experiment with simulated data:
+
 -- generate simulated data
 
     simu1_generate_data.py
@@ -26,6 +28,8 @@ To run all models/methods with numbers of datasets, please use
 Some sample command to produce our experiment.
     
     run.sh
+   
+To run the experiment with ihdp and news data: See the example command in `run.sh`.    
 
 ## Citation
     @inproceedings{
